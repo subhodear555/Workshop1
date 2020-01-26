@@ -3,5 +3,13 @@ React
 https://github.com/subhodear555/Workshop1.git
 
 To Create React package
-
+=========================
 npm i -g create-react-app
+
+To create react project
+===========================
+npx create-react-app my-first-app
+
+TODO LIST:
+==========
+how to run react in different port
