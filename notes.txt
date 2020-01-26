@@ -1,0 +1,7 @@
+React
+
+https://github.com/subhodear555/Workshop1.git
+
+To Create React package
+
+npm i -g create-react-app
